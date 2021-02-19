@@ -1,0 +1,6 @@
+@include('/inc/head')
+@include('/inc/header')
+@include('/inc/sub_header')
+@include('/inc/product_top')
+@include('/inc/product_content')
+@include('/inc/footer')
